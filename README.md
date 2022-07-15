@@ -1,4 +1,4 @@
-# Case Study: How Does a Bike-Share Navigate Speedy Success?
+# Case Study: bike-share analysis case study
 
 ## Introduction
 
